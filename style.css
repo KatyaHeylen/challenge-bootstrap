@@ -1,6 +1,6 @@
-
+h1 {font-family: "Berlin Sans FB"; color: deeppink; margin-bottom: 50px; margin-top: 10px; font-size: 70px}
 .container {background-color: azure;
     background-image: var(--bs-gradient);
-    margin: 20;
+    margin: 20px;
 alignment: center;
 }
