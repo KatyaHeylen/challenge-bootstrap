@@ -1,5 +1,6 @@
 
 .container {background-color: azure;
+    background-image: var(--bs-gradient);
     margin: 20;
 alignment: center;
 }
